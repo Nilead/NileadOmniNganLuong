@@ -1,5 +1,5 @@
 {
-    "name": "nilead/nilead-omni-nganluong",
+    "name": "nilead/omni-nganluong",
     "type": "nilead-library",
     "description": "Nganluong gateway for Omnipay payment processing library",
     "keywords": [
@@ -29,10 +29,5 @@
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.3.x-dev"
-        }
     }
 }
